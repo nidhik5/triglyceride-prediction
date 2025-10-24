@@ -10,6 +10,7 @@ Liver enzyme concentrations (ALT, AST, GGT)
 Lifestyle factors (smoking, alcohol consumption, exercise)
 
 🚀 **Key Features**
+
 ✅ Cleaned and preprocessed real-world medical dataset (22K+ samples)
 
 ✅ Built a Linear Regression model optimised via Gradient Descent
@@ -29,11 +30,17 @@ Techniques: Linear Regression, Feature Engineering, Hyperparameter Tuning, Data 
 
 🧮 **Model Pipeline**
 Data Cleaning: Removed null values, handled outliers, and standardised units
+
 Feature Engineering:
+
 Scaled continuous variables
+
 Encoded categorical attributes
+
 Model Training: Linear Regression with Gradient Descent optimisation
+
 Evaluation: R² score, RMSE, and accuracy metrics
+
 Visualisation: Correlation heatmaps and regression plots
 
 📈 **Results**
