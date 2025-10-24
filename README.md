@@ -11,10 +11,15 @@ Lifestyle factors (smoking, alcohol consumption, exercise)
 
 🚀 **Key Features**
 ✅ Cleaned and preprocessed real-world medical dataset (22K+ samples)
+
 ✅ Built a Linear Regression model optimised via Gradient Descent
+
 ✅ Applied ColumnTransformer for efficient scaling and encoding
+
 ✅ Used GridSearchCV for hyperparameter tuning to prevent overfitting
+
 ✅ Achieved 94% model accuracy on validation data
+
 ✅ Generated visual insights with Matplotlib and Seaborn
 
 🧩 **Tech Stack**
